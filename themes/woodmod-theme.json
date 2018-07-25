@@ -49,10 +49,10 @@
 		"editorGroupHeader.noTabsBackground": "#231e18",
 		"editorGroupHeader.tabsBackground": "#231e18",
 		"editorGroupHeader.tabsBorder": "#231e18",
-		"editorGutter.addedBackground": "#bfc17d",
+		"editorGutter.addedBackground": "#9ac78d65",
 		"editorGutter.background": "#231e18",
-		"editorGutter.deletedBackground": "#d18383",
-		"editorGutter.modifiedBackground": "#c9a32e",
+		"editorGutter.deletedBackground": "#d1838365",
+		"editorGutter.modifiedBackground": "#c9a32e65",
 		"editorHoverWidget.background": "#302b25",
 		"editorHoverWidget.border": "#302b25",
 		"editorIndentGuide.background": "#302b25",
@@ -234,7 +234,6 @@
 		//"textLink.activeForeground": "#4080d0",
 		//"textLink.foreground": "#4080d0",
 		//"textPreformat.foreground": "#d7ba7d",
-		//"textSeparator.foreground": "#ffffff2e"
 	},
 	"tokenColors": [
 		{
