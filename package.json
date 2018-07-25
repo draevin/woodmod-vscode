@@ -1,17 +1,16 @@
 {
   "name": "woodmod-vscode",
   "displayName": "WoodMod",
-  "description": "An earthy dark theme for VS Code",
   "version": "1.2.0",
-  "author": "Draevin Luke (http://draevin.com/)",
   "publisher": "draevin",
-  "engines": {
-    "vscode": "^1.14.0"
+  "description": "An earthy dark theme for VS Code",
+  "author": {
+   "name": "Draevin Luke",
+   "url": "http://draevin.com/"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -20,5 +19,14 @@
         "path": "themes/woodmod-theme.json"
       }
     ]
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "license": "See LICENSE file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/draevin/woodmod-vscode"
   }
 }
