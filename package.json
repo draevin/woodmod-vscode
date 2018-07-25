@@ -1,6 +1,6 @@
 {
-  "name": "woodmod-theme",
-  "displayName": "WoodMod Dark Theme",
+  "name": "woodmod-vscode",
+  "displayName": "WoodMod",
   "description": "An earthy dark theme for VS Code",
   "version": "1.2.0",
   "author": "Draevin Luke (http://draevin.com/)",
@@ -17,7 +17,7 @@
       {
         "label": "WoodMod",
         "uiTheme": "vs-dark",
-        "path": "woodmod-theme.json"
+        "path": "themes/woodmod-theme.json"
       }
     ]
   }
