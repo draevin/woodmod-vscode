@@ -1,7 +1,7 @@
 {
   "name": "woodmod-vscode",
   "displayName": "WoodMod",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "draevin",
   "description": "An earthy dark theme for VS Code",
   "author": {
