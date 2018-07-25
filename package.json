@@ -1,6 +1,6 @@
 {
-  "name": "woodmod-vscode",
-  "displayName": "WoodMod",
+  "name": "woodmod-vscode-dev",
+  "displayName": "WoodMod DEV",
   "version": "1.0.0",
   "publisher": "draevin",
   "description": "An earthy dark theme for VS Code",
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "WoodMod",
+        "label": "WoodMod DEV",
         "uiTheme": "vs-dark",
         "path": "themes/woodmod-theme.json"
       }
